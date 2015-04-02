@@ -1,6 +1,5 @@
 .exrc
 _exrc
-node_modules
 *.log
 *.swo
 *.swn
